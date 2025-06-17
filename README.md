@@ -1,5 +1,5 @@
-# 🚀 Awesome Bioastronautics Resources  
-**Curated by Penn Bioastronautics**  
+# 🚀 Awesome BioAstronautics Resources  
+**Curated by Penn BioAstronautics**  
 
 Advancing the frontiers of space biology and preparing the next generation of researchers for humanity's expansion into the cosmos.  
 
